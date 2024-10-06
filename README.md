@@ -9,7 +9,7 @@ Standard Skins
 - **[+DT Hitori at 1pm](https://drive.google.com/file/d/1f1Tf1n6uVdYSkOKayI1kehfHCDc5VS4a/view?usp=sharing)**
 this is just an edit of [Hitori Gotou 後藤 ひとり v1.0](https://skins.osuck.net/skins/2927?v=0) by Vasco01 with a custom DT skins made by my friend Trayyzer.
 
-![song select](https://files.osuck.link/images/skins/44af104451ce9e1c291b35dbe1dd9549.webp)![gameplay](https://i.imgur.com/2FjrsiM.png)
+[song select](https://files.osuck.link/images/skins/44af104451ce9e1c291b35dbe1dd9549.webp)![gameplay](https://i.imgur.com/2FjrsiM.png)
 
 - **[+HD XooMoon Long Blue Trail](https://drive.google.com/file/d/1PZuhMGjsxDT81JlK0XiVAg-JTsu7HQ02/view?usp=sharing)** - [Original Link](https://skins.osuck.net/skins/2530?v=0)
 Xooty's skin with the traiiiiillll
