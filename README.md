@@ -1,5 +1,5 @@
-<h1 id="sushi-s-osu-skin-collection">Sushi&#39;s osu! Skin Collection</h1>
-<p>List of all my edited osu!skin for people to download if they want them. If it&#39;s not in there, that mean i don&#39;t use it regularly</p>
+<p><img src="https://i.imgur.com/tOqCVUa.jpeg" alt="banner"></p>
+<p><b>List of all my edited osu!skin for people to download if they want them. If it&#39;s not in there, that mean i don&#39;t use it regularly</b></p>
 <p> (ALL THE SKIN ARE NOT MADE BY ME, THEY ARE MOSTLY JUST EDIT OF EXISTING SKIN)</p>
 <h2 id="standard-skins">Standard Skins</h2>
 <ul>
