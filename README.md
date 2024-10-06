@@ -12,7 +12,7 @@
 
 <ul>
     <details>
-        <summary><strong><a href="https://drive.google.com/file/d/1PZuhMGjsxDT81JlK0XiVAg-JTsu7HQ02/view?usp=sharing">+HD XooMoon Long Blue Trail</a></strong></summary> - <a href="https://skins.osuck.net/skins/2530?v=0">Original Link</a> Xooty&#39;s skin with the traiiiiillll
+        <summary><strong><a href="https://drive.google.com/file/d/1PZuhMGjsxDT81JlK0XiVAg-JTsu7HQ02/view?usp=sharing">+HD XooMoon Long Blue Trail</a></strong> - <a href="https://skins.osuck.net/skins/2530?v=0">Original Link</a></summary> Xooty&#39;s skin with the traiiiiillll
         <p><img src="https://files.osuck.link/images/skins/166734a284b6cba31b0a429f34f52515.webp" alt="song select"><img src="https://files.osuck.link/images/skins/0f9bbac5915ac4f0629c9434a5928e16.webp" alt="gameplay"></p>
     </details>
 </ul>
@@ -69,7 +69,7 @@
 <h2 id="mania-skins">Mania Skins</h2>
 <ul>
     <details>
-        <summary><strong><a href="https://drive.google.com/file/d/1n9c0tczcQwwZ69bLOF2bc-xn2XSpudoS/view?usp=sharing">4K Ellen Joe Mania</a></strong></summary> - <a href="https://skins.osuck.net/skins/3847?v=0">Original Link</a> Good circle skin, i like it :3
+        <summary><strong><a href="https://drive.google.com/file/d/1n9c0tczcQwwZ69bLOF2bc-xn2XSpudoS/view?usp=sharing">4K Ellen Joe Mania</a></strong> - <a href="https://skins.osuck.net/skins/3847?v=0">Original Link</a></summary> Good circle skin, i like it :3
         <p><img src="https://files.osuck.link/images/skins/39e49887c2ecf20d686ccf3b06349e12.webp" alt="song select"><img src="https://files.osuck.link/images/skins/cb39f48b263040efe165c3fa975b9206.webp" alt="gameplay"></p>
     </details>
 </ul>
