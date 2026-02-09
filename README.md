@@ -1,26 +1,39 @@
-<p><img src="https://i.imgur.com/tOqCVUa.jpeg" alt="banner"></p>
-<p><b>List of all my edited osu!skin for people to download if they want them. If it&#39;s not in there, that mean i don&#39;t use it regularly</b></p>
-<p> (ALL THE SKIN ARE NOT MADE BY ME, THEY ARE MOSTLY JUST EDIT OF EXISTING SKIN)</p>
+# Sushi skins collection
+List of all my edited osu!skin for people to download if they want them. If it's not in there, that mean i dont use it regularly or i forgor to update
 
-<h2 id="skins">THE SKINS :3</h2>
+## Disclaimer
+> ALL THE SKIN ARE NOT MADE BY ME, THEY ARE MOSTLY JUST EDIT OF EXISTING SKIN)
+> **[DELTA SKINS](https://github.com/Iceotaku/Delta4) ARE NOT SUPPORTED ON STABLE** (Also they all use the same playfield from Silver skin)
 
-> All the skins should be formated to be playable on Lazer by default.
-> Nothing change for stable (tho you should switch already like what are you? 40 years old? move on and download **osu! lazer** NOW.)
 
-**NM, Alt, Tech & HD | 茗猫 - Silver v1.0 osu skin**\
-Link: [Custom](https://drive.google.com/file/d/1EM-nMuOB3AaycYNPGTPETeysQxorex13/view?usp=sharing), [Original](https://skins.osuck.net/skins/2921?v=0)
-	
-**EZ & Gimmick | Ekoro's Blueberry EZ skin X Mokou v1.0**\
-Link: [Custom](https://drive.google.com/file/d/1pLHnjyz6z3DZH0_9CEDXtSeUEuocpxmG/view?usp=drive_link), [Ekoro's EZ skin](https://skins.osuck.net/skins/1372?v=0), [Mokou v1.0](https://skins.osuck.net/skins/3723?v=0)
+# SKINS
+## Lazer ONLY
 
-**DT | Colored paper miku**\
-Link: [Custom](https://drive.google.com/file/d/1ynfM9aJVHAfA7ldKo8tX4jtimwJEYC1w/view?usp=drive_link), [Original](https://skins.osuck.net/skins/4165?v=0)
+### NM, Alt, Tech & HD | Delta 4 x Silver
+Link: [Custom](https://drive.google.com/file/d/1wxgmKnb5N_NNIZ7HAMefkdUc2IhCXM0X/view?usp=drive_link), [Silver](https://skins.osuck.net/skins/2921?v=0) [Delta 4](https://skins.osuck.net/skins/4906)
 
-**Mania 4K | Hu tao skins**\
-Link: [Custom](https://drive.google.com/file/d/1TMX37eusbsuREiGLjoqs-8jgwY0lXLAS/view?usp=drive_link)
+### EZ & Gimmick | Delta 4 x Ekoro's Blueberry EZ
+Link: [Custom](https://drive.google.com/file/d/13Bq7zhA3W87y_2QgFCFRcjuelCXOKxGk/view?usp=drive_link), [Ekoro's EZ](https://skins.osuck.net/skins/1372?v=0), [Delta 4](https://skins.osuck.net/skins/4906)
 
-**Catch the Beat | Misono Mika**\
-Link: [Custom](https://drive.google.com/file/d/1KkwLJfRJuiuy_1Ej0Nt19731M1sgBnh_/view?usp=drive_link), [Original](https://skins.osuck.net/skins/3310?v=0)
+### DT |  Delta 4 x Trayyzer DT
+Link: [Custom](https://drive.google.com/file/d/1sNVvPukBUKw3NF8dM4osMDPxIOfD5oXL/view?usp=drive_link), [Delta 4](https://skins.osuck.net/skins/4906) 
 
-**Mapping | Default**\
-Link: None?
+
+## Stable Compatible
+
+### NM, Alt, Tech & HD | Nyuh x Silver & RGB Archive (mix of アロナ&プラナ and EZChamp skins)
+Nyuh x Silver: [Custom](https://drive.google.com/file/d/1vF0wa2l9McsV3oKG7GRc1kCBgkgNMqwR/view?usp=drive_link), [Silver](https://skins.osuck.net/skins/2921?v=0) [Nyuh](https://skins.osuck.net/skins/4716)
+RGB Archive: [Custom](https://drive.google.com/file/d/1LpxH9_gc8_ECbiq2ipBjSnYpKp-ONbTa/view?usp=drive_link), [Arona & Plana](https://skins.osuck.net/skins/4434), [EZChamp](https://skins.osuck.net/skins/4394)
+
+### EZ & Gimmick | Koishi the EZ Demon (mix of Koishi and Ekoro's EZ Blueberry)
+Link: [Custom](https://drive.google.com/file/d/16WBW7ETLaGvsFLQF0IaRx9A01hWgm-4e/view?usp=drive_link), [Koishi](https://skins.osuck.net/skins/4663), [Ekoro's EZ](https://skins.osuck.net/skins/1372?v=0)
+
+### DT |  Koishi the DT Demon (mix of Koishi and Trayyzer's DT skin)
+Link: [Custom](https://drive.google.com/file/d/1gJkHEKOg-3LnDqtKJMFXPG7-H-vJME_i/view?usp=drive_link), [Koishi](https://skins.osuck.net/skins/4663)
+
+### Mania 4K | Hu tao skins & アロナ&プラナ
+Hu tao: [Custom](https://drive.google.com/file/d/1oI7vwOze28GYY3wH58tK_4-Fsh8Dcy_A/view?usp=drive_link)
+アロナ&プラナ: [Custom](https://drive.google.com/file/d/1tURQwNnngf1a_I31Zw8IhQ2RXom3RdiW/view?usp=drive_link) [Arona & Plana](https://skins.osuck.net/skins/4434) 
+
+### Mapping | Default (osu! Classic 2013)
+Link: [Custom?](https://youtu.be/jj0ChLVTpaA?list=RDjj0ChLVTpaA)
