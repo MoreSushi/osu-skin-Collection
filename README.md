@@ -33,7 +33,7 @@ List of all my edited osu!skin for people to download if they want them. If it's
 
 ### Mania 4K | Hu tao skins & アロナ&プラナ
 - Hu tao: [Custom](https://drive.google.com/file/d/1oI7vwOze28GYY3wH58tK_4-Fsh8Dcy_A/view?usp=drive_link)
-- アロナ&プラナ: [Custom](https://drive.google.com/file/d/1tURQwNnngf1a_I31Zw8IhQ2RXom3RdiW/view?usp=drive_link) [Arona & Plana](https://skins.osuck.net/skins/4434) 
+- アロナ&プラナ: [Custom](https://drive.google.com/file/d/1tURQwNnngf1a_I31Zw8IhQ2RXom3RdiW/view?usp=drive_link), [Arona & Plana](https://skins.osuck.net/skins/4434) 
 
 ### Mapping | Default (osu! Classic 2013)
 - osu! Classic 2013: [Custom?](https://youtu.be/jj0ChLVTpaA?list=RDjj0ChLVTpaA)
