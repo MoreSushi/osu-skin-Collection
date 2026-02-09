@@ -3,7 +3,7 @@ List of all my edited osu!skin for people to download if they want them. If it's
 
 ### Disclaimer
 > ALL THE SKIN ARE NOT MADE BY ME, THEY ARE MOSTLY JUST EDIT OF EXISTING SKIN) \
-> **[DELTA SKINS](https://github.com/Iceotaku/Delta4) ARE NOT SUPPORTED ON STABLE** (Also they all use the same playfield from Silver skin) \
+> **[DELTA SKINS](https://github.com/Iceotaku/Delta4) ARE NOT SUPPORTED ON STABLE** (Also they all use the same playfield from Silver skin)
 
 ![Custom Delta 4 song select](https://i.imgur.com/u64mjFd.jpeg)
 
