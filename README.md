@@ -6,7 +6,7 @@ List of all my edited osu!skin for people to download if they want them. If it's
 > **[DELTA SKINS](https://github.com/Iceotaku/Delta4) ARE NOT SUPPORTED ON STABLE** (Also they all use the same playfield from Silver skin)
 
 ## Lazer ONLY
-!(Custom Delta 4 song select)[https://i.imgur.com/u64mjFd.jpeg]
+![Custom Delta 4 song select](https://i.imgur.com/u64mjFd.jpeg)
 
 ### NM | Delta 4 x Silver
 - Delta 4 x Silver: [Custom](https://drive.google.com/file/d/1wxgmKnb5N_NNIZ7HAMefkdUc2IhCXM0X/view?usp=drive_link), [Silver](https://skins.osuck.net/skins/2921?v=0), [Delta 4](https://skins.osuck.net/skins/4906)
