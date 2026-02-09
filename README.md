@@ -1,14 +1,15 @@
 # Sushi skins collection
 List of all my edited osu!skin for people to download if they want them. If it's not in there, that mean i dont use it regularly or i forgor to update
 
-#### Disclaimer
+### Disclaimer
 > ALL THE SKIN ARE NOT MADE BY ME, THEY ARE MOSTLY JUST EDIT OF EXISTING SKIN) \
-> **[DELTA SKINS](https://github.com/Iceotaku/Delta4) ARE NOT SUPPORTED ON STABLE** (Also they all use the same playfield from Silver skin)
+> **[DELTA SKINS](https://github.com/Iceotaku/Delta4) ARE NOT SUPPORTED ON STABLE** (Also they all use the same playfield from Silver skin) \
+
 ![Custom Delta 4 song select](https://i.imgur.com/u64mjFd.jpeg)
 
 ## Lazer ONLY
 ### NM | Delta 4 x Silver
-- Delta 4 x Silver: [Custom](https://drive.google.com/file/d/1wxgmKnb5N_NNIZ7HAMefkdUc2IhCXM0X/view?usp=drive_link), [Silver](https://skins.osuck.net/skins/2921?v=0), [Delta 4](https://skins.osuck.net/skins/4906)
+> Delta 4 x Silver: [Custom](https://drive.google.com/file/d/1wxgmKnb5N_NNIZ7HAMefkdUc2IhCXM0X/view?usp=drive_link), [Silver](https://skins.osuck.net/skins/2921?v=0), [Delta 4](https://skins.osuck.net/skins/4906)
 
 ### EZ | Delta 4 x Ekoro's Blueberry EZ (with fixed cursor size)
 - Delta 4 x Ekoro: [Custom](https://drive.google.com/file/d/13Bq7zhA3W87y_2QgFCFRcjuelCXOKxGk/view?usp=drive_link), [Ekoro's EZ](https://skins.osuck.net/skins/1372?v=0), [Delta 4](https://skins.osuck.net/skins/4906)
