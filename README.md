@@ -9,13 +9,13 @@ List of all my edited osu!skin for people to download if they want them. If it's
 
 ## Lazer ONLY
 ### NM | Delta 4 x Silver
-> Delta 4 x Silver: [Custom](https://drive.google.com/file/d/1wxgmKnb5N_NNIZ7HAMefkdUc2IhCXM0X/view?usp=drive_link), [Silver](https://skins.osuck.net/skins/2921?v=0), [Delta 4](https://skins.osuck.net/skins/4906)
+> Delta 4 x Silver: [Custom](https://drive.google.com/file/d/1SejKKOsFL-jPv82z8ho37bP-tGYzXPH8/view?usp=sharing), [Silver](https://skins.osuck.net/skins/2921?v=0), [Delta 4](https://skins.osuck.net/skins/4906)
 
 ### EZ | Delta 4 x Ekoro's Blueberry EZ (with fixed cursor size)
-> Delta 4 x Ekoro: [Custom](https://drive.google.com/file/d/13Bq7zhA3W87y_2QgFCFRcjuelCXOKxGk/view?usp=drive_link), [Ekoro's EZ](https://skins.osuck.net/skins/1372?v=0), [Delta 4](https://skins.osuck.net/skins/4906)
+> Delta 4 x Ekoro: [Custom](https://drive.google.com/file/d/1KlPtbN0OAALGlHVLyJN0Q5HBt8hz7iW0/view?usp=drive_link), [Ekoro's EZ](https://skins.osuck.net/skins/1372?v=0), [Delta 4](https://skins.osuck.net/skins/4906)
 
 ### DT |  Delta 4 x Trayyzer's DT mixed skin
-> Delta 4 x Trayyzer DT: [Custom](https://drive.google.com/file/d/1sNVvPukBUKw3NF8dM4osMDPxIOfD5oXL/view?usp=drive_link), [Delta 4](https://skins.osuck.net/skins/4906) 
+> Delta 4 x Trayyzer DT: [Custom](https://drive.google.com/file/d/17lwXDHQpWJyakXwVdr2lSjg5tcUGu_y5/view?usp=drive_link), [Delta 4](https://skins.osuck.net/skins/4906) 
 
 
 ## Stable Compatible
