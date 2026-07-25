@@ -40,7 +40,7 @@ List of all my edited osu!skin for people to download if they want them. If it's
 
 ### Mania 4K | Hu tao skins & アロナ&プラナ
 > Hu tao: [Skin](https://drive.google.com/file/d/1oI7vwOze28GYY3wH58tK_4-Fsh8Dcy_A/view?usp=drive_link) \ 
-> Source: i lost it \ \
+> Source: i lost it
  
 > アロナ&プラナ: [Skin](https://drive.google.com/file/d/1tURQwNnngf1a_I31Zw8IhQ2RXom3RdiW/view?usp=drive_link) \
 > Source: [Arona & Plana](https://skins.osuck.net/skins/4434)
