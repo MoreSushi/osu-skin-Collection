@@ -5,17 +5,17 @@ List of all my edited osu!skin for people to download if they want them. If it's
 > ALL THE SKIN ARE NOT MADE BY ME, THEY ARE MOSTLY JUST EDIT OF EXISTING SKIN) \
 > **[DELTA SKINS](https://github.com/Iceotaku/Delta4) ARE NOT SUPPORTED ON STABLE** (Also they all use the same playfield from Silver skin)
 
-![Custom Delta 4 song select](https://i.imgur.com/u64mjFd.jpeg)
+![Custom Delta 4 song select](https://i.imgur.com/mIxnYSl.jpeg)
 
-## Lazer ONLY
-### NM | Delta 4 x Silver
-> Delta 4 x Silver: [Custom](https://drive.google.com/file/d/1SejKKOsFL-jPv82z8ho37bP-tGYzXPH8/view?usp=sharing), [Silver](https://skins.osuck.net/skins/2921?v=0), [Delta 4](https://skins.osuck.net/skins/4906)
+## Lazer ONLY - Hajime Todoroki v1.0
+### NM | Hajime Todoroki v1.0 (requires x0.8 UI scaling)
+> Delta 4 x Silver: [Custom](https://drive.google.com/file/d/1J2uET4zV-Aw-Y_j5Z5AeAkvzAbbomsYv/view?usp=drive_link), [Silver](https://skins.osuck.net/skins/2921?v=0), [Delta 4](https://skins.osuck.net/skins/4906)
 
-### EZ | Delta 4 x Ekoro's Blueberry EZ (with fixed cursor size)
-> Delta 4 x Ekoro: [Custom](https://drive.google.com/file/d/1KlPtbN0OAALGlHVLyJN0Q5HBt8hz7iW0/view?usp=drive_link), [Ekoro's EZ](https://skins.osuck.net/skins/1372?v=0), [Delta 4](https://skins.osuck.net/skins/4906)
+### EZ | Hajime Todoroki v1.0
+> Delta 4 x Ekoro: [Custom](https://drive.google.com/file/d/1CDSbs8PgnGRfjGam87SfrBAnPLIBESBe/view?usp=drive_link), [Ekoro's EZ](https://skins.osuck.net/skins/1372?v=0), [Delta 4](https://skins.osuck.net/skins/4906)
 
-### DT |  Delta 4 x Trayyzer's DT mixed skin
-> Delta 4 x Trayyzer DT: [Custom](https://drive.google.com/file/d/17lwXDHQpWJyakXwVdr2lSjg5tcUGu_y5/view?usp=drive_link), [Delta 4](https://skins.osuck.net/skins/4906) 
+### DT | Hajime Todoroki v1.0
+> Delta 4 x Trayyzer DT v3: [Custom](https://drive.google.com/file/d/1s4c2Gx566n9ER4A0RSV_175nuUhc3FGC/view?usp=drive_link), [Delta 4](https://skins.osuck.net/skins/4906) 
 
 
 ## Stable Compatible
@@ -34,5 +34,6 @@ List of all my edited osu!skin for people to download if they want them. If it's
 > Hu tao: [Custom](https://drive.google.com/file/d/1oI7vwOze28GYY3wH58tK_4-Fsh8Dcy_A/view?usp=drive_link) \
 > アロナ&プラナ: [Custom](https://drive.google.com/file/d/1tURQwNnngf1a_I31Zw8IhQ2RXom3RdiW/view?usp=drive_link), [Arona & Plana](https://skins.osuck.net/skins/4434)
 
-### Mapping | Default (osu! Classic 2013)
+### Mapping | Default (osu! Classic 2013) & Never4ever Dot Edit
 > osu! Classic 2013: [Custom?](https://youtu.be/jj0ChLVTpaA?list=RDjj0ChLVTpaA)
+> Never Dot : [Custom](https://drive.google.com/file/d/1Zkus-QzPzYMARB1dCmUNEi9eZ6jGlBx_/view?usp=drive_link)
