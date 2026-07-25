@@ -1,24 +1,27 @@
 # Sushi skins collection
 List of all my edited osu!skin for people to download if they want them. If it's not in there, that mean i dont use it regularly or i forgor to update
 
+![Custom Delta 4 song select](https://i.imgur.com/mIxnYSl.jpeg)
+
 ### Disclaimer
 > ALL THE SKIN ARE NOT MADE BY ME, THEY ARE MOSTLY JUST EDIT OF EXISTING SKIN) \
 > **LAZER SKINS ARE NOT SUPPORTED ON STABLE** (Also they all use the same playfield from Silver skin) \
 > For the skin to work properly, you need to set the UI scaling to x0.8 in the settings.
 
-![Custom Delta 4 song select](https://i.imgur.com/mIxnYSl.jpeg)
-
 ## Lazer ONLY - Hajime Todoroki v1.0
 ### NM | Hajime Todoroki v1.0
 > Delta 4 x Silver: [Skin](https://drive.google.com/file/d/1J2uET4zV-Aw-Y_j5Z5AeAkvzAbbomsYv/view?usp=drive_link) \
+![NM skin gp preview](https://i.imgur.com/6jalf2S.png)
 > Source: [Silver](https://skins.osuck.net/skins/2921?v=0), [Delta 4](https://skins.osuck.net/skins/4906)
 
 ### EZ | Hajime Todoroki v1.0
 > Delta 4 x Ekoro: [Skin](https://drive.google.com/file/d/1CDSbs8PgnGRfjGam87SfrBAnPLIBESBe/view?usp=drive_link) \
+![EZ skin gp preview](https://i.imgur.com/o8WjH1L.jpeg)
 > Source: [Ekoro's EZ](https://skins.osuck.net/skins/1372?v=0), [Delta 4](https://skins.osuck.net/skins/4906)
 
 ### DT | Hajime Todoroki v1.0
 > Delta 4 x Trayyzer DT v3: [Skin](https://drive.google.com/file/d/1s4c2Gx566n9ER4A0RSV_175nuUhc3FGC/view?usp=drive_link) \
+![DT skin gp preview](https://i.imgur.com/y9gJmRo.png)
 > Source: [Delta 4](https://skins.osuck.net/skins/4906), [Trayyzer DT v3](https://drive.google.com/file/d/1miQA3rV-wuXBas1K8ZkHtJn-4ZVNICci/view)
 
 ## Stable Compatible
