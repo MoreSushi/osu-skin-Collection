@@ -1,7 +1,7 @@
 # Sushi skins collection
 List of all my edited osu!skin for people to download if they want them. If it's not in there, that mean i dont use it regularly or i forgor to update
 
-![Custom Delta 4 song select](https://i.imgur.com/mIxnYSl.jpeg)
+![Custom Delta 4 song select](https://i.imgur.com/qIDNRQI.jpeg)
 
 ### Disclaimer
 > ALL THE SKIN ARE NOT MADE BY ME, THEY ARE MOSTLY JUST EDIT OF EXISTING SKIN) \
